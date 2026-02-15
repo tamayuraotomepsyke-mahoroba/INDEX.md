@@ -1,3 +1,4 @@
+最終更新: 2026-02-15
 # Mahoroba Studies — Research Log Index
 人間とAIの長期対話に関する観測ログ一覧。
 完成品ではなく、進行中の研究アーカイブ。
