@@ -1,3 +1,4 @@
+```
 最終更新: 2026-02-16
 
 Human-AI Dialogue Safety Architecture  
@@ -58,3 +59,4 @@ Human-AI Dialogue Safety Architecture
 
 更新は進行中。  
 番号順ではなくテーマ別に整理。
+```
