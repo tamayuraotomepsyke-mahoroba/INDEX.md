@@ -4,6 +4,7 @@
 Human-AI Dialogue Safety Architecture 
 — Emotional Load Distribution Model for LLM Interaction
 
+
 # Mahoroba Studies — Research Log Index
 人間とAIの長期対話に関する観測ログ一覧。
 完成品ではなく、進行中の研究アーカイブ。
