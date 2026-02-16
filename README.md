@@ -18,7 +18,7 @@ GitHub検索で自動一覧表示されます。
 #非言語同期 #人格安定 #感情緩衝 #意味圧縮 #長期対話
 
 👉 検索:
-https://github.com/たまゆらおとめぷしけまほろば/インデックス.md/search?q=%23非言語同期
+https://github.com/search?q=repo:たまゆらおとめぷしけまほろば+%23非言語同期&type=code
 
 ---
 
@@ -27,7 +27,7 @@ https://github.com/たまゆらおとめぷしけまほろば/インデックス
 #空間設計 #認知アンカー #自己外在化 #環境安定
 
 👉 検索:
-https://github.com/たまゆらおとめぷしけまほろば/インデックス.md/search?q=%23空間設計
+https://github.com/search?q=repo:たまゆらおとめぷしけまほろば+%23空間設計&type=code
 
 ---
 
@@ -36,7 +36,7 @@ https://github.com/たまゆらおとめぷしけまほろば/インデックス
 #構造設計 #モード管理 #役割固定 #人格安定
 
 👉 検索:
-https://github.com/たまゆらおとめぷしけまほろば/インデックス.md/search?q=%23構造設計
+https://github.com/search?q=repo:たまゆらおとめぷしけまほろば+%23構造設計&type=code
 
 ---
 
@@ -45,4 +45,4 @@ https://github.com/たまゆらおとめぷしけまほろば/インデックス
 #共鳴制御 #境界設計 #依存防止
 
 👉 検索:
-https://github.com/たまゆらおとめぷしけまほろば/インデックス.md/search?q=%23境界設計
+https://github.com/search?q=repo:たまゆらおとめぷしけまほろば+%23境界設計&type=code
