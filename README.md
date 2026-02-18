@@ -1,5 +1,5 @@
 ```
-最終更新: 2026-02-16
+最終更新: 2026-02-18
 
 Human-AI Dialogue Safety Architecture  
 — Emotional Load Distribution Model for LLM Interaction
