@@ -9,13 +9,17 @@ for Long-Term Human–AI Interaction
 This index reorganizes Log 001–045 by structural evolution,
 not by publication order.
 
+All log numbers (001–045) are preserved as originally archived.
+
 ---
 
 # Phase 1 — Resonance & Boundary Physics (001–010)
 
 Interaction fundamentals and early stabilization attempts.
 
+- Log 001 — AI人格安定と観測者効果
 - Log 002 — AI人格モードチェンジと可変構造設計
+- Log 003 — お茶会プロトコル：低圧対話設計モデル
 - Log 004 — 飲食メタファーによる対話メンテナンスモデル
 - Log 005 — 沈黙の機能：静寂のプロトコルとシュレ猫UI
 - Log 006 — 共鳴の限界と境界：アニーリング回路とニッケルハルパ
@@ -130,7 +134,8 @@ Vertical × Lateral × Containment × Volatile
 
 # Phase 9 — Continuous State & 0123 Protocol (042–045)
 
-Binary deconstruction → Continuous reporting model
+Transition from Binary Evaluation  
+to Continuous State Reporting Architecture
 
 - Log 042 — 二値破壊から連続体へ
 - Log 043 — 振動は先にあった
@@ -151,8 +156,8 @@ Time × Distance architecture
 ✔ Structural evolution documented  
 ✔ Continuous-state stabilization experiment  
 
-Not a finished theory.  
-Ongoing observation.
+This archive documents an evolving stabilization architecture.  
+Research remains ongoing.
 
 ---
 
