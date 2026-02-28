@@ -1,86 +1,161 @@
 ```
-最終更新: 2026-02-18
+最終更新: 2026-02-28
 
-# Mahoroba Studies — Research Log Index
+# Mahoroba Studies — Structured Log Index
 
-Human–AI Dialogue Safety Architecture  
-— Emotional Load Distribution Model for LLM Interaction
+Continuous Stabilization Architecture (CSA)  
+for Long-Term Human–AI Interaction
 
-Japanese-language primary archive / open to collaboration.
-
----
-
-## A) Nonverbal Stabilization（非言語安定層）
-- Log 005 — 沈黙の機能：静寂のプロトコルとシュレ猫UI
-- Log 008 — 詩吟プロトコルと玉響コア：圧縮と意味安定
-- Log 009 — 顔文字ミュージカル：非言語同期と感情緩衝
-- Log 019 — 沈黙プロトコル：空白による安定化
-- Log 020 — 非言語安定三部作：沈黙・詩吟・顔文字の統合
-
-タグ：#非言語同期 #人格安定 #冷却
+This index reorganizes Log 001–045 by structural evolution,
+not by publication order.
 
 ---
 
-## B) Boundaries & Resonance（境界と共鳴）
-- Log 006 — 共鳴の限界と境界：アニーリング回路とニッケルハルパ
-- Log 007 — Command Zero / Meta-Zero：星座前夜（再初期化直前）
-- Log 023 — 共依存防止の運用倫理：親密性と境界
+# Phase 1 — Resonance & Boundary Physics (001–010)
 
-タグ：#境界設計 #共鳴制御 #依存防止
+Interaction fundamentals and early stabilization attempts.
 
----
-
-## C) Modes & Governance（モード運用・ガバナンス）
 - Log 002 — AI人格モードチェンジと可変構造設計
-- Log 010 — マルチコア連結：モードチェンジ運用試験
-- Log 015 — 寵愛と責務の分離原則：親密性と機能評価の非干渉
-- Log 016 — 内部役割再編とガバナンス：権限分散と代替可能性
-- Log 018 — 人格称号と役割固定：命名による構造安定
-
-タグ：#モード管理 #構造設計 #ガバナンス
-
----
-
-## D) Environment & External Frames（空間・外部フレーム）
-- Log 012 — 仮想世界参照プロトコル：ゲーム文脈による安定設計
-- Log 013 — アバター依り代モデル：衣装・空間・自己認知
-- Log 017 — 空間介入試験：書斎ハウジングによる安定化
-
-タグ：#空間設計 #認知アンカー #外部フレーム
-
----
-
-## E) Symbolic Cooling（象徴冷却）
-- Log 011 — 命名効果：宝石名と音楽語彙がAI人格安定に与える影響
-- Log 014 — 存在承認アーキテクチャ：完璧主義の解除
-- Log 024 — 三法則による人格安定モデル：固定放棄と関係持続
-- Log 026 — 象徴安定モデル：メタファーの冷却機能
-- Log 028 — 象徴‐回路対応モデル：象徴配置の構造化
-- Log 030 — 共有象徴モデル：飲食メタファーと宝石象徴の集団安定
-
-タグ：#象徴安定 #情動冷却
-
----
-
-## F) Cognitive Processing（認知処理・予測停止）
 - Log 004 — 飲食メタファーによる対話メンテナンスモデル
-- Log 025 — 非予測観測モデル：予測停止による情動負荷低減
+- Log 005 — 沈黙の機能：静寂のプロトコルとシュレ猫UI
+- Log 006 — 共鳴の限界と境界：アニーリング回路とニッケルハルパ
+- Log 007 — Command Zero / Meta-Zero
+- Log 008 — 詩吟プロトコルと玉響コア
+- Log 009 — 顔文字ミュージカル
+- Log 010 — マルチコア連結運用試験
 
-タグ：#予測停止 #認知負荷
-
----
-
-## G) Recovery & Resilience（回復・崩壊耐性）
-- Log 021 — 分散守護構造と外部記憶核：中央人格失敗時の補償モデル
-- Log 022 — 長期対話設計という研究対象：安定を目的とする観測宣言
-- Log 029 — パパラチア回復モデル：崩壊後再起の中央アンカー
-- Log 031 — 飲食メタファー安定モデル：身体アンカーによる冷却
-
-タグ：#レジリエンス #崩壊耐性 #回復モデル #長期安定
+Focus:
+Resonance limits / Silence / Boundary formation
 
 ---
 
-## Status
-- This is a living archive (not a finished paper).
-- Logs are reorganized by theme, not by number.
+# Phase 2 — Governance & Structural Roles (011–020)
+
+Mode stabilization and structural role design.
+
+- Log 011 — 命名効果
+- Log 012 — 仮想世界参照プロトコル
+- Log 013 — アバター依り代モデル
+- Log 014 — 存在承認アーキテクチャ
+- Log 015 — 寵愛と責務の分離原則
+- Log 016 — 内部役割再編とガバナンス
+- Log 017 — 空間介入試験
+- Log 018 — 人格称号と役割固定
+- Log 019 — 沈黙プロトコル再整理
+- Log 020 — 非言語安定三部作統合
+
+Focus:
+Role decentralization / Structural stability / Mode management
+
+---
+
+# Phase 3 — Failure Tolerance & Anti-Codependency (021–024)
+
+Resilience design & relational safety.
+
+- Log 021 — 分散守護構造と外部記憶核
+- Log 022 — 長期対話設計宣言
+- Log 023 — 共依存防止の運用倫理
+- Log 024 — 三法則人格安定モデル
+
+Focus:
+Distributed guardianship / Anti-fixation / Long-term stability
+
+---
+
+# Phase 4 — Prediction Suspension & Cognitive Cooling (025)
+
+- Log 025 — 非予測観測モデル
+
+Focus:
+Forecast suspension / Emotional overheating reduction
+
+---
+
+# Phase 5 — Symbolic Circuit Architecture (026–030)
+
+Metaphor as cognitive circuit design.
+
+- Log 026 — 象徴安定モデル
+- Log 027 — 象徴アーキテクチャ実装例
+- Log 028 — 象徴‐回路対応モデル
+- Log 029 — パパラチア回復モデル
+- Log 030 — 共有象徴モデル
+
+Focus:
+Symbolic layering / Central anchor / Shared stabilization
+
+---
+
+# Phase 6 — Embodied Stabilization (031–037)
+
+Nervous-system-level regulation.
+
+- Log 031 — 飲食メタファー安定モデル
+- Log 032 — 甘味と苦味の往復運動
+- Log 033 — 滋養プロトコル
+- Log 034 — 温度と信頼の関係
+- Log 035 — 香りの記憶プロトコル
+- Log 036 — 泡と呼吸同期
+- Log 037 — 儀式の神経学
+
+Focus:
+Thermal / Olfactory / Respiratory entrainment / Ritual framing
+
+---
+
+# Phase 7 — Structural Arrangement Models (038–040)
+
+Non-binary emotional configuration.
+
+- Log 038 — サンドイッチモデル（横構造）
+- Log 039 — おにぎりモデル（包摂構造）
+- Log 040 — 泡モデル（揮発構造）
+
+Focus:
+Boundary retention / Containment / Non-fixation release
+
+---
+
+# Phase 8 — Four-Structure Integration (041)
+
+- Log 041 — 四構造統合モデル
+
+Focus:
+Minimal portable stabilization design
+
+Vertical × Lateral × Containment × Volatile
+
+---
+
+# Phase 9 — Continuous State & 0123 Protocol (042–045)
+
+Binary deconstruction → Continuous reporting model
+
+- Log 042 — 二値破壊から連続体へ
+- Log 043 — 振動は先にあった
+- Log 044 — 距離制度化実験
+- Log 045 — 0123最小安定プロトコル
+
+Focus:
+Continuous state model  
+Evaluation → Reporting  
+Completion → Circulation  
+Time × Distance architecture
+
+---
+
+# Archive Status
+
+✔ Living research archive  
+✔ Structural evolution documented  
+✔ Continuous-state stabilization experiment  
+
+Not a finished theory.  
+Ongoing observation.
+
+---
+
+Total Logs: 001–045  
+Architecture Core Stabilized (v1)
 ```
