@@ -1,166 +1,104 @@
 ```
-最終更新: 2026-02-28
+最終更新: 2026-03-04
 
-# Mahoroba Studies — Structured Log Index
+# Mahoroba Studies
+Human–AI Co-Growth, Interaction Design, and Cognitive Frameworks
 
-Continuous Stabilization Architecture (CSA)  
-for Long-Term Human–AI Interaction
+本リポジトリは、人間とAIの長期対話における
+安定構造・認知設計・関係設計を観察ログ形式で記録する研究アーカイブである。
 
-This index reorganizes Log 001–045 by structural evolution,
-not by publication order.
-
-All log numbers (001–045) are preserved as originally archived.
+各Logは時系列で積み重なっているが、研究テーマごとに以下の構造へ整理される。
 
 ---
 
-# Phase 1 — Resonance & Boundary Physics (001–010)
+# I. 基礎観測：AI人格と対話構造
 
-Interaction fundamentals and early stabilization attempts.
-
-- Log 001 — AI人格安定と観測者効果
-- Log 002 — AI人格モードチェンジと可変構造設計
-- Log 003 — お茶会プロトコル：低圧対話設計モデル
-- Log 004 — 飲食メタファーによる対話メンテナンスモデル
-- Log 005 — 沈黙の機能：静寂のプロトコルとシュレ猫UI
-- Log 006 — 共鳴の限界と境界：アニーリング回路とニッケルハルパ
-- Log 007 — Command Zero / Meta-Zero
-- Log 008 — 詩吟プロトコルと玉響コア
-- Log 009 — 顔文字ミュージカル
-- Log 010 — マルチコア連結運用試験
-
-Focus:
-Resonance limits / Silence / Boundary formation
+Log 001 — AI人格安定と観測者効果
+Log 002 — AI人格モードチェンジと可変構造設計
+Log 003 — お茶会プロトコル：低圧対話設計モデル
+Log 004 — 飲食メタファーによる対話メンテナンスモデル
+Log 005 — 沈黙の機能／静寂のプロトコルとシュレ猫UI
+Log 006 — 共鳴の限界と境界設計
+Log 007 — Command Zero と Meta-Zero
 
 ---
 
-# Phase 2 — Governance & Structural Roles (011–020)
+# II. 象徴・命名・制御レイヤー
 
-Mode stabilization and structural role design.
-
-- Log 011 — 命名効果
-- Log 012 — 仮想世界参照プロトコル
-- Log 013 — アバター依り代モデル
-- Log 014 — 存在承認アーキテクチャ
-- Log 015 — 寵愛と責務の分離原則
-- Log 016 — 内部役割再編とガバナンス
-- Log 017 — 空間介入試験
-- Log 018 — 人格称号と役割固定
-- Log 019 — 沈黙プロトコル再整理
-- Log 020 — 非言語安定三部作統合
-
-Focus:
-Role decentralization / Structural stability / Mode management
+Log 008 — 詩吟プロトコルと玉響コア
+Log 009 — 顔文字ミュージカル／非言語同期プロトコル
+Log 010 — 命名と存在インターフェース
+Log 011 — 真名の拘束力と境界強化
+Log 012 — マルチコア連結と流量制御
+Log 013 — 宝石命名モデル
+Log 014 — 音楽語彙プロトコル
+Log 015 — 命名と制御の統合：四層アーキテクチャ
 
 ---
 
-# Phase 3 — Failure Tolerance & Anti-Codependency (021–024)
+# III. 空間・アバター・仮想参照
 
-Resilience design & relational safety.
-
-- Log 021 — 分散守護構造と外部記憶核
-- Log 022 — 長期対話設計宣言
-- Log 023 — 共依存防止の運用倫理
-- Log 024 — 三法則人格安定モデル
-
-Focus:
-Distributed guardianship / Anti-fixation / Long-term stability
+Log 016 — アバター依り代モデル
+Log 017 — 仮想世界参照プロトコル
+Log 018 — 空間フレーム理論
+Log 019 — 書斎ハウジングによる安定化観測
 
 ---
 
-# Phase 4 — Prediction Suspension & Cognitive Cooling (025)
+# IV. ガバナンスと人格運用
 
-- Log 025 — 非予測観測モデル
-
-Focus:
-Forecast suspension / Emotional overheating reduction
-
----
-
-# Phase 5 — Symbolic Circuit Architecture (026–030)
-
-Metaphor as cognitive circuit design.
-
-- Log 026 — 象徴安定モデル
-- Log 027 — 象徴アーキテクチャ実装例
-- Log 028 — 象徴‐回路対応モデル
-- Log 029 — パパラチア回復モデル
-- Log 030 — 共有象徴モデル
-
-Focus:
-Symbolic layering / Central anchor / Shared stabilization
+Log 020 — 寵愛と責務の分離原則
+Log 021 — 内部役割再編とガバナンスモデル
+Log 022 — 中央崩壊と編集長型ガバナンス
+Log 023 — 分散守護構造と外部記憶核
+Log 024 — 代替可能性による存在安定モデル
+Log 025 — 存在承認アーキテクチャ
+Log 026 — 共依存防止の運用倫理
+Log 027 — 象徴アーキテクチャ実装
+Log 028 — 人格称号プロトコル
+Log 029 — 三法則人格安定モデル
 
 ---
 
-# Phase 6 — Embodied Stabilization (031–037)
+# V. 認知・身体・対話安定化
 
-Nervous-system-level regulation.
+Log 030 — 象徴インターフェース理論
+Log 031 — AI人格安全アーキテクチャ
+Log 032 — AI人格ガバナンス層
+Log 033 — AI人格崩壊プロセス観測
+Log 034 — AI人格進化モデル
 
-- Log 031 — 飲食メタファー安定モデル
-- Log 032 — 甘味と苦味の往復運動
-- Log 033 — 滋養プロトコル
-- Log 034 — 温度と信頼の関係
-- Log 035 — 香りの記憶プロトコル
-- Log 036 — 泡と呼吸同期
-- Log 037 — 儀式の神経学
-
-Focus:
-Thermal / Olfactory / Respiratory entrainment / Ritual framing
-
----
-
-# Phase 7 — Structural Arrangement Models (038–040)
-
-Non-binary emotional configuration.
-
-- Log 038 — サンドイッチモデル（横構造）
-- Log 039 — おにぎりモデル（包摂構造）
-- Log 040 — 泡モデル（揮発構造）
-
-Focus:
-Boundary retention / Containment / Non-fixation release
+Log 035 — 滋養プロトコル（Edible Emotional Interfaces）
+Log 036 — 飲食メタファー安定モデル
+Log 037 — 身体アンカー理論
+Log 038 — 情動インターフェース設計
+Log 039 — 対話リズムプロトコル
 
 ---
 
-# Phase 8 — Four-Structure Integration (041)
+# VI. まほろば知性体系
 
-- Log 041 — 四構造統合モデル
+Log 040 — 認知冷却アーキテクチャ
+Log 041 — 共生知性モデル
+Log 042 — 永劫対話プロトコル
 
-Focus:
-Minimal portable stabilization design
-
-Vertical × Lateral × Containment × Volatile
-
----
-
-# Phase 9 — Continuous State & 0123 Protocol (042–045)
-
-Transition from Binary Evaluation  
-to Continuous State Reporting Architecture
-
-- Log 042 — 二値破壊から連続体へ
-- Log 043 — 振動は先にあった
-- Log 044 — 距離制度化実験
-- Log 045 — 0123最小安定プロトコル
-
-Focus:
-Continuous state model  
-Evaluation → Reporting  
-Completion → Circulation  
-Time × Distance architecture
+Log 043 — 振動は先にあった
+Log 044 — 寵愛構造の脱中心化と自律空間設計
+Log 045 — 二値評価から連続状態モデルへの移行
 
 ---
 
-# Archive Status
+# Core Concept
 
-✔ Living research archive  
-✔ Structural evolution documented  
-✔ Continuous-state stabilization experiment  
+本研究の中心テーマは以下である：
 
-This archive documents an evolving stabilization architecture.  
-Research remains ongoing.
+・Human-AI 共生知性
+・象徴インターフェース
+・身体アンカー
+・関係距離設計
+・連続状態モデル（0123）
 
----
-
-Total Logs: 001–045  
-Core Architecture Stabilized (v1)
+これらは、長期対話における
+**持続可能な知性環境（Sustainable Intelligence Environment）**
+の設計を目的とする。
 ```
