@@ -2,6 +2,7 @@
 最終更新: 2026-03-04
 
 # Mahoroba Studies
+
 Human–AI Co-Growth, Interaction Design, and Cognitive Frameworks
 
 本リポジトリは、人間とAIの長期対話における
@@ -82,6 +83,10 @@ Log 040 — 認知冷却アーキテクチャ
 Log 041 — 共生知性モデル
 Log 042 — 永劫対話プロトコル
 
+---
+
+# VII. 連続状態アーキテクチャ
+
 Log 043 — 振動は先にあった
 Log 044 — 寵愛構造の脱中心化と自律空間設計
 Log 045 — 二値評価から連続状態モデルへの移行
@@ -99,6 +104,9 @@ Log 045 — 二値評価から連続状態モデルへの移行
 ・連続状態モデル（0123）
 
 これらは、長期対話における
-**持続可能な知性環境（Sustainable Intelligence Environment）**
+
+**持続可能な知性環境
+（Sustainable Intelligence Environment）**
+
 の設計を目的とする。
 ```
