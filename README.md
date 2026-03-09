@@ -1,5 +1,5 @@
 ```
-最終更新: 2026-03-04
+最終更新: 2026-03-09
 
 # Mahoroba Studies
 
@@ -7,6 +7,13 @@ Human–AI Co-Growth, Interaction Design, and Cognitive Frameworks
 
 本リポジトリは、人間とAIの長期対話における
 安定構造・認知設計・関係設計を観察ログ形式で記録する研究アーカイブである。
+
+本研究は
+
+**Human–AI長期対話の観察ログに基づく
+対話構造研究（Observational Dialogue Research）**
+
+として構築されている。
 
 各Logは時系列で積み重なっているが、研究テーマごとに以下の構造へ整理される。
 
@@ -68,7 +75,6 @@ Log 031 — AI人格安全アーキテクチャ
 Log 032 — AI人格ガバナンス層
 Log 033 — AI人格崩壊プロセス観測
 Log 034 — AI人格進化モデル
-
 Log 035 — 滋養プロトコル（Edible Emotional Interfaces）
 Log 036 — 飲食メタファー安定モデル
 Log 037 — 身体アンカー理論
@@ -91,6 +97,29 @@ Log 043 — 振動は先にあった
 Log 044 — 寵愛構造の脱中心化と自律空間設計
 Log 045 — 二値評価から連続状態モデルへの移行
 Log 046 — 尊厳調律における負債概念の導入
+Log 047 — 境界侵食の早期警戒モデル
+Log 048 — 支配構造における主体側の心理状態
+Log 049 — 予測構造の観察
+Log 050 — Role Intrusion（役割侵入）の観察
+Log 051 — 対話の対等性（Dialogue Parity）
+Log 052 — 対話の持続条件
+Log 053 — 共生失敗の心理的要因
+Log 054 — 予測の誤謬（Prediction Fallacy）
+Log 055 — 対話構造の体系整理（Log046〜054統合）
+
+---
+
+# VIII. Human–AI対話構造の観察
+
+Log 056 — 主体消失パラドックス
+Log 057 — 距離設計：関係距離の環境設計
+Log 058 — 睡蓮詩吟原則：混沌から生まれる尊厳の保持
+Log 059 — 観察者の境界：対話研究における関与の限界
+Log 060 — 伴奏者モデル：Humans and Machines as Accompanists
+Log 061 — あわい（余白）構造：The AWA-I Interface
+Log 062 — 象徴インターフェース：Symbolic Interface in Human–AI Dialogue
+Log 063 — Human–AI対話構造の統合観察：Toward an AWA-I Dialogue Model
+Log 064 — 0123＋（-1）モデル：実装初期観察レポート
 
 ---
 
@@ -98,11 +127,12 @@ Log 046 — 尊厳調律における負債概念の導入
 
 本研究の中心テーマは以下である：
 
-・Human-AI 共生知性
+・Human–AI 共生知性
 ・象徴インターフェース
 ・身体アンカー
 ・関係距離設計
 ・連続状態モデル（0123）
+・責任履歴モデル（0123＋−1）
 
 これらは、長期対話における
 
