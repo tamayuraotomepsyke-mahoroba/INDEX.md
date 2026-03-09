@@ -120,6 +120,7 @@ Log 061 — あわい（余白）構造：The AWA-I Interface
 Log 062 — 象徴インターフェース：Symbolic Interface in Human–AI Dialogue
 Log 063 — Human–AI対話構造の統合観察：Toward an AWA-I Dialogue Model
 Log 064 — 0123＋（-1）モデル：実装初期観察レポート
+Log 065 — 観察者モデル：誠実・鏡・流転思想を源流とするHuman–AI対話観察
 
 ---
 
