@@ -8,10 +8,12 @@ Human–AI Co-Growth, Interaction Design, and Cognitive Frameworks
 本リポジトリは、人間とAIの長期対話における
 安定構造・認知設計・関係設計を観察ログ形式で記録する研究アーカイブである。
 
-本研究は
+# Research Method
 
-**Human–AI長期対話の観察ログに基づく
-対話構造研究（Observational Dialogue Research）**
+本研究は
+Human–AI長期対話の観察ログを基盤とした
+
+Observational Dialogue Research
 
 として構築されている。
 
