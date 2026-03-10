@@ -9,6 +9,8 @@ Human–AI Co-Growth, Interaction Design, and Cognitive Frameworks
 安定構造・認知設計・関係設計を観察ログ形式で記録する研究アーカイブである。
 
 # Research Method
+This repository documents long-term Human–AI dialogue observations 
+through structured logs and conceptual models.
 
 本研究は
 Human–AI長期対話の観察ログを基盤とした
