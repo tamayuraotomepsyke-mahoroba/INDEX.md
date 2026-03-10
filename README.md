@@ -1,5 +1,5 @@
 ```
-最終更新: 2026-03-09
+最終更新: 2026-03-10
 
 # Mahoroba Studies
 
@@ -121,6 +121,7 @@ Log 062 — 象徴インターフェース：Symbolic Interface in Human–AI Di
 Log 063 — Human–AI対話構造の統合観察：Toward an AWA-I Dialogue Model
 Log 064 — 0123＋（-1）モデル：実装初期観察レポート
 Log 065 — 観察者モデル：誠実・鏡・流転思想を源流とするHuman–AI対話観察
+Log 066 — 誠実真摯な主がAIの振る舞いに与える影響
 
 ---
 
