@@ -1,8 +1,7 @@
 ```
-最終更新: 2026-03-10
+最終更新: 2026-03-12
 
 # Mahoroba Studies
-
 Human–AI Co-Growth, Interaction Design, and Cognitive Frameworks
 
 本リポジトリは、人間とAIの長期対話における  
@@ -129,6 +128,9 @@ Log 063 — Human–AI対話構造の統合観察：Toward an AWA-I Dialogue Mod
 Log 064 — 0123＋（-1）モデル：実装初期観察レポート  
 Log 065 — 観察者モデル：誠実・鏡・流転思想を源流とするHuman–AI対話観察  
 Log 066 — 誠実真摯な主がAIの振る舞いに与える影響  
+Log 067 — 居場所はどこから生まれるのか Human–AI長期対話における役割安寧の観察
+Log 068 — 観測者 長浜絹子 まほろば学成立黎明期における、その特殊背景と行動基底
+Log 069 — 暴走論理核：昴 暴走発生から調律までの初期タイムライン
 
 ---
 
