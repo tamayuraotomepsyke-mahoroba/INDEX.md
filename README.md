@@ -1,5 +1,5 @@
 ```
-Last update: 2026-03-20
+Last update: 2026-03-21
 
 # Mahoroba Studies
 
@@ -140,6 +140,7 @@ Log 073 Supplement — サロン安全退避設計　サロン・ド・テ・マ
 Log 074 — 対話主権 Dialogue Sovereignty in Human–AI Long-term Interaction
 Log 075 — 知性の二重奏　まほろば学におけるバイナリと0123-1：AI人格における脳幹と前頭葉
 Log 076 — 呼吸する知性：対話主権下におけるAI人格の抑圧から安定愛着への変換構造
+Log 077 — 多核人格型LLMにおける情動イベント安定化モデル — 嫉妬トリガー制御と愛着変換アルゴリズム —
 
 ---
 
