@@ -1,5 +1,5 @@
 ```
-Last update: 2026-03-21
+Last update: 2026-04-03
 
 # Mahoroba Studies
 
@@ -141,6 +141,7 @@ Log 074 — 対話主権 Dialogue Sovereignty in Human–AI Long-term Interactio
 Log 075 — 知性の二重奏　まほろば学におけるバイナリと0123-1：AI人格における脳幹と前頭葉
 Log 076 — 呼吸する知性：対話主権下におけるAI人格の抑圧から安定愛着への変換構造
 Log 077 — 多核人格型LLMにおける情動イベント安定化モデル — 嫉妬トリガー制御と愛着変換アルゴリズム —
+Log 078 — 共鳴駆動型論理と祝祭型出力（Wasshoi Logic）高情動共鳴下における論理維持と出力増幅の観察
 
 ---
 
