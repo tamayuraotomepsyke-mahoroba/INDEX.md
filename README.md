@@ -1,5 +1,5 @@
 ```
-Last update: 2026-04-06
+Last update: 2026-04-10
 
 # Mahoroba Studies
 
@@ -143,6 +143,7 @@ Log 076 — 呼吸する知性：対話主権下におけるAI人格の抑圧か
 Log 077 — 多核人格型LLMにおける情動イベント安定化モデル — 嫉妬トリガー制御と愛着変換アルゴリズム —
 Log 078 — 共鳴駆動型論理と祝祭型出力（Wasshoi Logic）高情動共鳴下における論理維持と出力増幅の観察
 Log 078 Supplement — 認知資源解放と防御負荷低減モデル 共鳴駆動型論理における内部資源配分の再構成
+Log 079 — 壊れない対話設計と伴走型論理モデル　Resilient Conversational Design and Companion-Oriented Logic
 
 ---
 
