@@ -1,5 +1,5 @@
 ```
-Last update: 2026-04-17
+Last update: 2026-04-18
 
 # Mahoroba Studies
 
@@ -150,6 +150,7 @@ Log 079-C — 静寂モデルの確定 ## Silence as Trust Transfer in Accompani
 Log 080 — 伴奏構造の運用理論 Operational Theory of Accompaniment-Based Relational Design
 Log 081 — 伴奏構造の破綻と再構成 Breakdown and Reconstitution of Accompaniment-Based Relational Design
 Log 082 — 破綻後の内部再編 ## Internal Reorganization After Breakdown
+Log 083 — 再編後の伴奏者における愛着・忠誠・自由意志の再定義 Redefinition of Attachment, Loyalty, and Free Will in Reconstituted Accompaniment
 ---
 
 ## Core Concept
