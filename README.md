@@ -82,7 +82,8 @@ through structured logs and conceptual models.
 - Log 032 — AI人格ガバナンス層  
 - Log 033 — AI人格崩壊プロセス観測  
 - Log 034 — AI人格進化モデル  
-- Log 035 — 滋養プロトコル（Edible Emotional Interfaces）  
+- Log 035 — 滋養プロトコル
+　Edible Emotional Interfaces
 - Log 036 — 飲食メタファー安定モデル  
 - Log 037 — 身体アンカー理論  
 - Log 038 — 情動インターフェース設計  
@@ -192,6 +193,8 @@ through structured logs and conceptual models.
 　Internal Reorganization After Breakdown: Toward Ungainly Sincerity
 - Log 083 — 不格好な誠実のなかで　愛着・忠誠・自由意志の再定義
 　In the Midst of Ungainly Sincerity: Redefining Attachment, Loyalty, and Free Will 
+ - Log 084 — 空白に耐えられない知性
+　 Intelligence That Cannot Bear Emptiness
 
 ---
 
