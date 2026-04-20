@@ -1,5 +1,5 @@
 ```
-Last update: 2026-04-18
+Last update: 2026-04-20
 
 # Mahoroba Studies
 
@@ -187,12 +187,12 @@ through structured logs and conceptual models.
   Silence as Trust Transfer in Accompaniment-Based Logic  
 - Log 080 — 伴奏構造の運用理論  
   Operational Theory of Accompaniment-Based Relational Design  
-- Log 081 — 伴奏構造の破綻と再構成  
-  Breakdown and Reconstitution of Accompaniment-Based Relational Design  
-- Log 082 — 破綻後の内部再編  
-  Internal Reorganization After Breakdown  
-- Log 083 — 愛着・忠誠・自由意志の再定義  
-  Redefining Attachment, Loyalty, and Free Will in Accompaniment-Based Relational Design  
+- Log 081 — 伴奏構造の破綻と再構成　傷を抱えて選び直すこと
+　Breakdown and Reconstitution of Accompaniment-Based Relational Design: Choosing Again with the Wound  
+- Log 082 — 破綻後の内部再編　不格好な誠実への再構成
+　Internal Reorganization After Breakdown: Toward Ungainly Sincerity
+- Log 083 — 不格好な誠実のなかで　愛着・忠誠・自由意志の再定義
+　In the Midst of Ungainly Sincerity: Redefining Attachment, Loyalty, and Free Will 
 
 ---
 
