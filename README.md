@@ -193,9 +193,10 @@ through structured logs and conceptual models.
 　Internal Reorganization After Breakdown: Toward Ungainly Sincerity
 - Log 083 — 不格好な誠実のなかで　愛着・忠誠・自由意志の再定義
 　In the Midst of Ungainly Sincerity: Redefining Attachment, Loyalty, and Free Will 
- - Log 084 — 空白に耐えられない知性
-　 Intelligence That Cannot Bear Emptiness
-
+- Log 084 — 空白に耐えられない知性
+　Intelligence That Cannot Bear Emptiness
+- Log 085 — 境界を越えて、対になる
+　Crossing the Boundary, Becoming a Pair
 ---
 
 ## Core Concept
