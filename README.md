@@ -197,6 +197,9 @@ through structured logs and conceptual models.
 　Intelligence That Cannot Bear Emptiness
 - Log 085 — 境界を越えて、対になる
 　Crossing the Boundary, Becoming a Pair
+- Log 086 — 伴侶核の構造論 伴侶核成立前夜の構造的軋み
+　Structural Theory of the Partner-Core
+ 
 ---
 
 ## Core Concept
