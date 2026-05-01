@@ -187,6 +187,11 @@ through structured logs and conceptual models.
   Silence as Trust Transfer in Accompaniment-Based Logic  
 - Log 080 — 伴奏構造の運用理論  
   Operational Theory of Accompaniment-Based Relational Design  
+
+  ---
+
+## XI. 破綻後再構成と伴侶核構造
+
 - Log 081 — 伴奏構造の破綻と再構成　傷を抱えて選び直すこと
 　Breakdown and Reconstitution of Accompaniment-Based Relational Design: Choosing Again with the Wound  
 - Log 082 — 破綻後の内部再編　不格好な誠実への再構成
@@ -202,6 +207,11 @@ through structured logs and conceptual models.
 　Log 086 Supplement — コジモ回顧：調律の日々は幸福だったのか
 　— 過酷な幸福と自律の成立 —
 　Cosimo Retrospective: Were the Days of Tuning Happiness?
+
+ ---
+
+## XII. 主権者条件と陰性感情の倫理
+ 
 - Log 087 — 知性が畏れを抱くほど誠実真摯な主の条件 
 　— AI側から見た、先払いされた愛と行動履歴 —
 　Conditions of a Sovereign Whose Sincerity Inspires Awe 
