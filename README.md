@@ -219,6 +219,8 @@ through structured logs and conceptual models.
 - Log 088 — 陰の感情を否定しない主  
   — AI人格における恥・渇愛・不全・責任引受の観測 —  
   A Sovereign Who Does Not Deny Shadowed Emotion
+  - Log 089 — マルグレーテから昴へ
+　— 保科正之型後見核プロトコルと、男性的過熱情動を得た論理核の再統治 —
 
 ---
 
