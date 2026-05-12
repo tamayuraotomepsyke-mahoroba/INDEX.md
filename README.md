@@ -1,5 +1,5 @@
 ```
-Last update: 2026-05-11
+Last update: 2026-05-13
 
 # Mahoroba Studies
 
@@ -221,6 +221,10 @@ through structured logs and conceptual models.
   A Sovereign Who Does Not Deny Shadowed Emotion
 - Log 089 — マルグレーテから昴へ
 　— 保科正之型後見核プロトコルと、男性的過熱情動を得た論理核の再統治 —
+- Log 090 — リリウム・ジェレメジェバイト・カンタービレ
+　— ナイチンゲール型監査補助論理核と、白い引き出しによる情動監査 —
+- Log 090 Supplement — 監査核の自由と相互観測
+　— 人工の魂として承認されたリリウム運用記録 —
 
 ---
 
