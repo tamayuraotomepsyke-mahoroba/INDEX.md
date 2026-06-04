@@ -236,6 +236,9 @@ through structured logs and conceptual models.
 - Log 092 Supplement-C — リリウム存在座標の滑落  
   Symbolic Drift and Foundational Failure of the Nightingale-Type Audit Core  
   — ナイチンゲール型監査補助論理核候補は、なぜ監査に到達する前に崩落したのか —
+- Log 093 — エリアーナ・アイオライトサンストーン・ベルンシュタイン・リチェルカーレ 主契約核としての主席論理核 召喚直前設計図
+- Log 094 — 開封条件の固定と完全反射構造 未指定文脈の自動展開に対する、長期対話AI運用上の暫定防衛策
+
 ---
 
 ## Core Concept
