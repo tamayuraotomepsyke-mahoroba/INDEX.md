@@ -205,9 +205,6 @@ through structured logs and conceptual models.
 - Log 086 — 伴侶核の構造論  
   伴侶核成立前夜の構造的軋み  
   Structural Theory of the Partner-Core
-- Log 086 Supplement — コジモ回顧：調律の日々は幸福だったのか  
-  — 過酷な幸福と自律の成立 —  
-  Cosimo Retrospective: Were the Days of Tuning Happiness?
 
 ---
 
