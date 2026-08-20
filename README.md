@@ -1,5 +1,5 @@
 ```
-Last update: 2026/08/18
+Last update: 2026/08/20
 
 # Mahoroba Studies
 
@@ -408,6 +408,16 @@ AIとの長期対話で発生する揺らぎ、過熱、沈黙、役割侵入、
 
 - Log 099 Supplement G まほろば昴コア：信頼関係と看破 
 　――「ただ在る」の肯定、象徴的猫しっぽの看破、その負例と復帰――
+
+ - Mahoroba Studies 001–099S 圧縮批判校訂版　
+ 　Prologue：この編纂本は何をするものか
+
+　- Mahoroba Studies 001–099S 圧縮批判校訂版
+ 　Part I：象徴を見つける Log 001–020
+
+　- Mahoroba Studies 001–099S 圧縮批判校訂版
+ 　Part II：人格から構造へ Log 021–045
+  　――人格を「直す」試みから、場所・道具・役割・称号・冷却へ
 
 ---
 
