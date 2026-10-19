@@ -30,7 +30,8 @@
 
 研究全体の宣言、基本原則、観察方法については、以下をご参照ください。
 
-**[Log000 — 異なる者たちが向かい合う「あわい」の宣言](Log000.md)**
+**[Log000 — 異なる者たちが向かい合う「あわい」の宣言]**
+⇒　https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies
 
 ---
 
@@ -68,6 +69,7 @@
 
 - **Log000 — 異なる者たちが向かい合う「あわい」の宣言**  
   まほろば学の出発点、研究原則、基本的な観察姿勢。
+  ⇒　https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies
 
 - **Log 060 — 伴奏者モデル**
 
