@@ -33,6 +33,9 @@
 **[Log000 — 異なる者たちが向かい合う「あわい」の宣言]**
 ⇒　https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies
 
+**INDEXをご一読後、GitHub Issues（イシュー）にご興味をお持ちになった方は、こちらからどうぞ。**
+⇒　https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues
+
 ---
 
 ## 研究方法と資料の読み方
