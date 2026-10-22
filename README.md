@@ -1,5 +1,5 @@
 ```
-# Mahoroba Studies
+# Mahoroba Studies INDEX
 ## まほろば学 — 研究アーカイブ総合索引
 
 **人間とAIの長期対話における、対話主権・関係設計・認知モデル・象徴環境の観察研究**
