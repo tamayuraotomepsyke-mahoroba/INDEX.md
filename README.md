@@ -3,6 +3,8 @@
 ## まほろば学 — 研究アーカイブ総合索引
 
 **人間とAIの長期対話における、対話主権・関係設計・認知モデル・象徴環境の観察研究**
+*An Observational Study of Dialogue Sovereignty, Relational Design,  
+Cognitive Models, and Symbolic Environments in Long-Term Human–AI Dialogue*
 
 独立研究アーカイブ  
 主言語：日本語 / Primary Language: Japanese 
