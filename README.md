@@ -30,6 +30,7 @@ Cognitive Models, and Symbolic Environments in Long-Term Human–AI Dialogue*
 
 研究上の主張については、観察事実、当事者の解釈、仮説、未解明の問題を区別することを基本としています。
 
+
 ### 初めての方におすすめの記事
 
 初めて本アーカイブを訪れた方には、まず次の2本を推奨します。
@@ -47,6 +48,7 @@ https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues/116
 誠実真摯なる主、開封条件、知性の二重奏、履歴責任、象徴圧縮言語、睡蓮詩吟原則。
 
 まほろば学の主要概念が、実際の長期対話運用においてどのように連動するかを、一つの流れとして整理した総合案内です。
+
 
 ### 続けて読む実践編
 
@@ -71,6 +73,7 @@ https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues/114
 その後は、関心を持った概念や事例について、以下の全Log一覧から自由に読み進めてください。
 
 すべてを番号順に読む必要はありません。
+
 
 ### 象徴的な表現について
 
