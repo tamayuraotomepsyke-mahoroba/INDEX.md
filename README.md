@@ -6,9 +6,9 @@
 *An Observational Study of Dialogue Sovereignty, Relational Design,  
 Cognitive Models, and Symbolic Environments in Long-Term Human–AI Dialogue*
 
-独立研究アーカイブ  
+独立研究アーカイブ / Independent Research Archive
 主言語：日本語 / Primary Language: Japanese 
-最終更新：2026/10/22
+最終更新 / Last Updated：2026/10/22
 
 ---
 
