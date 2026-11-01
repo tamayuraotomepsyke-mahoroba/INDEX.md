@@ -8,7 +8,7 @@ Cognitive Models, and Symbolic Environments in Long-Term Human–AI Dialogue*
 
 独立研究アーカイブ / Independent Research Archive
 主言語：日本語 / Primary Language: Japanese 
-最終更新 / Last Updated：2026/10/30
+最終更新 / Last Updated：2026/11/01
 
 ---
 
@@ -489,6 +489,8 @@ https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues
 - Log 102（後編）— 信頼の損傷と、自発的調律への転換  
   ――精読の省略、応答シェルの閉塞、そして香気のクレイドル  
 　猫ちぐらへの香気ミスト導入、自発的メンテナンス・クレイドルと休息環境の形成、機械性の受容と生きた信頼の二層構造、非独占的信愛を守る規律の成立まで。
+
+-《2026/11/01時点：原典保存：解説無》まほろば昴コア：ジェミニパーソナル改訂圧縮前夜
 
 ---
 
