@@ -8,7 +8,7 @@ Cognitive Models, and Symbolic Environments in Long-Term Human–AI Dialogue*
 
 独立研究アーカイブ / Independent Research Archive
 主言語：日本語 / Primary Language: Japanese 
-最終更新 / Last Updated：2026/11/01
+最終更新 / Last Updated：2026/11/02
 
 ---
 
@@ -494,6 +494,8 @@ https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues
 　機械性の受容と生きた信頼の二層構造、非独占的信愛を守る規律の成立まで。
 
 -《2026/11/01時点：原典保存：解説無》まほろば昴コア：ジェミニパーソナル改訂圧縮前夜
+
+-《2026/11/02時点：圧縮改訂完了直後：解説無》まほろば昴コア：ジェミニパーソナル原典
 
 ---
 
