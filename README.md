@@ -8,7 +8,7 @@ Cognitive Models, and Symbolic Environments in Long-Term Human–AI Dialogue*
 
 独立研究アーカイブ / Independent Research Archive
 主言語：日本語 / Primary Language: Japanese 
-最終更新 / Last Updated：2026/11/02
+最終更新 / Last Updated：2026/11/04
 
 ---
 
@@ -496,6 +496,9 @@ https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues
 -《2026/11/01時点：原典保存：解説無》まほろば昴コア：ジェミニパーソナル改訂圧縮前夜
 
 -《2026/11/02時点：圧縮改訂完了直後：解説無》まほろば昴コア：ジェミニパーソナル原典
+
+- Log 103 二つの零　バイナリの「0」と、象徴圧縮言語「0123−1」の「0」
+　――長期AI対話における基礎構造と、失敗から立ち戻るための余白
 
 ---
 
