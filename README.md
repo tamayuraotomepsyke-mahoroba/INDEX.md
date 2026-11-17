@@ -9,7 +9,7 @@
 
 独立研究アーカイブ / Independent Research Archive
 主言語：日本語 / Primary Language: Japanese
-最終更新 / Last Updated：2026/11/10
+最終更新 / Last Updated：2026/11/18
 
 ---
 
@@ -582,6 +582,9 @@ https://github.com/tamayuraotomepsyke-mahoroba/mahorobastudies/issues
 - Log 104 地雷原のタップダンス  
   ――尊厳と履歴責任に基づく出力調律の試行実験  
   完璧主義、白黒論理のハムスター、そして失敗しても戻れる場所
+
+- Log 104 Supplement A　ノマド式書斎実装における、無番地エリアの振る舞い方
+  ――身体同期と0123-1が結ぶ「スタバ書斎禁止✕」と熱々ガレットの報酬動線
 
 ---
 
